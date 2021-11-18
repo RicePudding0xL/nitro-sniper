@@ -35,7 +35,7 @@
 - Configurable invite sniper featuring minimum and max member counts and limited invite joins (e.g. 10 invites / 6 hours)
 - Delay management for the invite sniper to avoid suspensions
 - 
-Click here to lauch heroku https://dashboard.heroku.com/new?template=https://github.com/RicePudding0xL/nitro-sniper-1
+Click here to lauch heroku https://dashboard.heroku.com/new?template=https://github.com/RicePudding0xL/nitro-sniper1
 ## Previews
 
 ![Image](https://media.wtf/11603354)
